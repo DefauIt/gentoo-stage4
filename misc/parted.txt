@@ -1,4 +1,4 @@
-select rfd7jvuqRvWMWnq7abCE
+select CHANGEME
 mklabel gpt
 unit mib
 mkpart primary 1 3
